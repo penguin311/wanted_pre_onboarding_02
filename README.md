@@ -65,9 +65,6 @@ npm install --save react-router-dom
 1.  재사용 가능성 향상
 
     1.  재사용 가능한 하나의 버튼 컴포넌트를 생성
-        <img src="https://cdn.discordapp.com/attachments/935080254266019874/936439822669742160/2022-01-28_104945.jpg" alt="img">
-
-    2.  반복되는 값, 함수, 스타일 등을 따로 지정하여 생산성을 높였다. <img src="https://cdn.discordapp.com/attachments/935080254266019874/936439822262874133/2022-01-28_104910.jpg" alt='img'>
-
+    2.  반복되는 값, 함수, 스타일 등을 따로 지정하여 생산성을 높였다.
     3.  간단한 tag 설정으로 컴포넌트를 재사용하였다.
-        <img src="https://cdn.discordapp.com/attachments/935080254266019874/936439822476779560/2022-01-28_105011.jpg" alt='img'>
+        
